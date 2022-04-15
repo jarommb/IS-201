@@ -1,0 +1,33 @@
+.fancy{
+    font-family: fantasy;
+}
+.italic{
+    font-style: italic;
+}
+.resumelistheading {
+    font-weight: bold;
+    font-size: x-large;
+}
+.position{
+        position: absolute;
+        left: 50%;
+        transform: translateX(-50%);
+}
+.text{
+    text-shadow: 2px 2px 4px #000000;
+}
+.float{
+    float: right;
+}
+.center{
+    text-align: center;
+}
+.imgcenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .size{
+      font-size: x-large;
+  }
